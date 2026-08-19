@@ -1,0 +1,14 @@
+[
+    {
+        "Student_ID": 310,
+        "Python": 77,
+        "Maths": 89,
+        "DBMS": 75
+    },
+    {
+        "Student_ID": 1,
+        "Python": 90,
+        "Maths": 78,
+        "DBMS": 89
+    }
+]
